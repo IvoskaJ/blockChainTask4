@@ -1,4 +1,7 @@
 # blockChainTask4
+
+Užduotis:
+
 Tikslas
 
 Pagrindinis šios užduoties tikslas yra sukurti išmaniąją sutartį (angl. smart contract), kuri įgyvendintų
